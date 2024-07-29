@@ -112,7 +112,7 @@
 //   );
 // }
 
-import Anime from "components/Anime";
+// import Anime from "components/Anime";
 
 
 export default function Home() {
